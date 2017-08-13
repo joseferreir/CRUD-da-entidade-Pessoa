@@ -7,5 +7,5 @@ DAC
 ## Professor: ​ 
 Ricardo Job
 ## Aluno: ​
-José Ferreira
+José Ferreira.
 
