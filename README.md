@@ -2,7 +2,7 @@
 
 ### Curso: ​
 Análise e Desenvolvimento de Sistemas
-### Disciplina:
+### Discíplina:
 DAC
 ## Professor: ​ 
 Ricardo Job
