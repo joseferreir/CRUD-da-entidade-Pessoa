@@ -1,11 +1,11 @@
 # Peer-instruction Contexto-de-Persistencia
 
-###Curso: ​
+### Curso: ​
 Análise e Desenvolvimento de Sistemas
-###Disciplina:
+### Disciplina:
 DAC
-##Professor: ​ 
+## Professor: ​ 
 Ricardo Job
-##Aluno: ​
+## Aluno: ​
 Jose Ferreira
 
